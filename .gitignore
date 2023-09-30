@@ -32,8 +32,8 @@ build/
 ### VS Code ###
 .vscode/
 
-.mvn/
+!/.mvn/
 
-mvnw.cmd
+!/mvnw
 
-mvnw
+!/mvnw.cmd
